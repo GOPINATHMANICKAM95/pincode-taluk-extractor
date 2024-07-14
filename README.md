@@ -2,18 +2,6 @@
 
 This project extracts taluk information for given pincodes from the website `https://pincode.net.in/`.
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Installation
-
-Clone the repository and install the required dependencies.
-
-```bash
-git clone https://github.com/GOPINATHMANICKAM95/pincode-taluk-extractor.git
-cd pincode-taluk-extractor
-pip install -r requirements.txt
+## Usage
+ - **1.Prepare your input CSV file:** Ensure your CSV file (e.g., sample.csv) contains a column named Pincode with the pincodes you want to extract taluk information for.
+ - **2.Run the script:** Execute the script to extract taluk information
