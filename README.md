@@ -14,6 +14,6 @@ This project extracts taluk information for given pincodes from the website `htt
 Clone the repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/your-username/pincode-taluk-extractor.git
+git clone https://github.com/GOPINATHMANICKAM95/pincode-taluk-extractor.git
 cd pincode-taluk-extractor
 pip install -r requirements.txt
